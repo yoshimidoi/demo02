@@ -1,1 +1,2 @@
 hello from yoshimi
+goodbye from yoshimi
